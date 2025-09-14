@@ -184,4 +184,56 @@ Automated-Hand-Sanitizer-and-Mask-Detector-Model/
 * Cloud-based analytics for tracking usage patterns.
 
 ---
+## User Interface
+
+The portal provides a simple and intuitive user experience:
+Visit [sanitizer-backend.herokuapp.com](http://sanitizer-backend.herokuapp.com).
+1. **Login Page** – Secure login for admins with email and password.
+2. **Registration Page** – New admins create accounts with name, contact number, email, and password.
+3. **Add Device Page** – Add new devices using Device ID, API Key, and location.
+4. **Register Device Screen** – Displays the Device ID and API Key generated at first startup.
+5. **Live Streaming Page** – Shows live mask detection output and sanitizer status.
+6. **Dashboard** – Displays all connected devices with their sanitizer levels and people counts.
+
+Below are screenshots of the admin portal and device workflow.
+
+### Login
+![Login](images/login.png)
+
+### Registration
+![Registration](images/registration.png)
+
+### Add a New Device
+![Add Device](images/add_device.png)
+
+### Device Credentials
+![Register Device](images/register_device.png)
+
+### Live Streaming
+Shows live mask detection output and sanitizer status.
+![Live Streaming](images/live_streaming.png)
+
+### Admin Dashboard
+Displays all connected devices with sanitizer levels and people counts.
+![Dashboard](images/dashboard.png)
+
+## Model and Training
+
+The mask detection model is built using a **Convolutional Neural Network (CNN)** in TensorFlow.
+
+### Model Summary
+![Model Summary](images/model.jpg)
+
+### Training and Validation Accuracy
+![Training and Validation Accuracy](images/training_accuracy.png)
+
+### Training and Validation Loss
+![Training and Validation Loss](images/training_loss.png)
+
+A simple cardboard housing can be used to contain the sensors, pump, and sanitizer container.
+
+### Circuit and Device
+![Hardware Circuit](images/hardware_circuit.png)
+
+
 
