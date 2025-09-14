@@ -225,7 +225,10 @@ A simple cardboard housing can be used to contain the sensors, pump, and sanitiz
 ### Circuit and Device
 ![Hardware Circuit](images/hardware_circuit.png)
 
-### Demo Video
+## Demo
 
-images/sanitizer_demo.mp4
+Here is a live demonstration of the Automated Hand Sanitizer and Mask Detection in action:
+
+[▶ Watch the Demo Video](https://drive.google.com/file/d/1T-sW7tBFI-dtO3TMqfCsLLlx6_NG0q9c/view?usp=drive_link)
+
 
