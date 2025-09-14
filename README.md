@@ -225,5 +225,7 @@ A simple cardboard housing can be used to contain the sensors, pump, and sanitiz
 ### Circuit and Device
 ![Hardware Circuit](images/hardware_circuit.png)
 
+### Demo Video
 
+images/sanitizer_demo.mp4
 
