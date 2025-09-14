@@ -51,7 +51,7 @@ The system is a combination of **hardware** (Arduino, IR sensors, pump) and **so
 
 ---
 
-### ⚙Workflow
+### Workflow
 
 1. **Face Detection**
 
@@ -100,13 +100,13 @@ The system is a combination of **hardware** (Arduino, IR sensors, pump) and **so
 
 ### Features
 
-* ✅ **Real-Time Mask Detection** using TensorFlow CNN model.
-* ✅ **Automatic Sanitizer Dispensing** with Arduino control.
-* ✅ **Web Dashboard** to monitor:
+* **Real-Time Mask Detection** using TensorFlow CNN model.
+* **Automatic Sanitizer Dispensing** with Arduino control.
+* **Web Dashboard** to monitor:
 
   * Sanitizer quantity (via ultrasonic sensor).
   * Device status and people count.
-* ✅ **Low-Cost Hardware** with Raspberry Pi or laptop-based deployment.
+* **Low-Cost Hardware** with Raspberry Pi or laptop-based deployment.
 
 ---
 
@@ -179,9 +179,9 @@ Automated-Hand-Sanitizer-and-Mask-Detector-Model/
 
 ### Future Enhancements
 
-* 🔹 Integration with **thermal camera** for temperature checks.
-* 🔹 Mobile notifications for sanitizer refills.
-* 🔹 Cloud-based analytics for tracking usage patterns.
+* Integration with **thermal camera** for temperature checks.
+*  Mobile notifications for sanitizer refills.
+* Cloud-based analytics for tracking usage patterns.
 
 ---
 
