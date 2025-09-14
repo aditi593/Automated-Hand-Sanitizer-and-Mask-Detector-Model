@@ -203,16 +203,6 @@ Below are screenshots of the admin portal and device workflow.
 ### Registration
 ![Registration](images/registration.png)
 
-### Add a New Device
-![Add Device](images/add_device.png)
-
-### Device Credentials
-![Register Device](images/register_device.png)
-
-### Live Streaming
-Shows live mask detection output and sanitizer status.
-![Live Streaming](images/live_streaming.png)
-
 ### Admin Dashboard
 Displays all connected devices with sanitizer levels and people counts.
 ![Dashboard](images/dashboard.png)
